@@ -5,7 +5,7 @@ var gProjects = [{
     name: "Mine Sweeper",
     title: "Staying Alive",
     desc: "Try not to explode",
-    url: "https://oren-karaso.github.io/Sprint1/",
+    url: 'a href="https://oren-karaso.github.io/Sprint1/" target="_blank"',
     publishedAt: '23/1/2021',
     labels: ["Matrixes", "Games"],
 },
@@ -14,7 +14,7 @@ var gProjects = [{
     name: "Book Shop",
     title: "Get in The Story",
     desc: "A platform for bookshop owners to run the business",
-    url: "https://oren-karaso.github.io/Gallery-Proj/",
+    url: 'a href="https://oren-karaso.github.io/Book-Shop/" target="_blank"',
     publishedAt: '28/1/2021',
     labels: ["Books", "Managment"],
 }

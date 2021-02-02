@@ -58,3 +58,9 @@ function renderProj() {
     
     $('.modal-body').html(modal);
 }
+
+
+function sendMail(ev) {
+  // ev.preventDefault();
+
+}

@@ -14,7 +14,7 @@ var gProjects = [{
     name: "Book Shop",
     title: "Get in The Story",
     desc: "A platform for bookshop owners to run the business",
-    url: "https://yet-to-be-defined",
+    url: "https://oren-karaso.github.io/Gallery-Proj/",
     publishedAt: '28/1/2021',
     labels: ["Books", "Managment"],
 }

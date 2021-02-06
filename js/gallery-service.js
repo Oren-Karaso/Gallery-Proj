@@ -6,7 +6,7 @@ var gProjects = [{
     title: 'Staying Alive',
     desc: 'Try not to explode',
     url: 'https://oren-karaso.github.io/Sprint1/',
-    publishedAt: '23/1/2021',
+    publishedAt: '23/01/2021',
     labels: ['Matrixes', 'Games'],
 },
 {
@@ -15,7 +15,7 @@ var gProjects = [{
     title: 'Get in The Story',
     desc: 'A platform for bookshop owners to run the business',
     url: 'https://oren-karaso.github.io/Book-Shop/',
-    publishedAt: '28/1/2021',
+    publishedAt: '28/01/2021',
     labels: ['Books', 'Managment'],
 },
 {
@@ -24,7 +24,7 @@ var gProjects = [{
     title: 'Collect \'em All!',
     desc: 'Ball game',
     url: 'https://oren-karaso.github.io/BallNBoard/',
-    publishedAt: '28/1/2021',
+    publishedAt: '17/01/2021',
     labels: ['Games', 'Ball games'],
 },
 {
@@ -33,7 +33,7 @@ var gProjects = [{
     title: 'A Perfect Pixel Attempt',
     desc: 'Work Still On Progress',
     url: 'https://oren-karaso.github.io/Design2LivePage/',
-    publishedAt: '28/1/2021',
+    publishedAt: '04/02/2021',
     labels: ['Design', 'Pages'],
 },
 {
@@ -41,8 +41,8 @@ var gProjects = [{
     name: 'In-Picture',
     title: 'Guess The Creature!',
     desc: 'An Animals Guessing Game',
-    url: 'https://oren-karaso.github.io/Design2LivePage/',
-    publishedAt: '28/1/2021',
+    url: 'https://oren-karaso.github.io/In-Picture/',
+    publishedAt: '14/01/2021',
     labels: ['Game', 'Guess'],
 },
 {
@@ -51,7 +51,7 @@ var gProjects = [{
     title: 'Avoid Being Eaten and Finish All The Pizzas!',
     desc: 'Classic Packman Game',
     url: 'https://oren-karaso.github.io/Packman/',
-    publishedAt: '28/1/2021',
+    publishedAt: '18/01/2021',
     labels: ['Game', 'Classics'],
 },
 {
@@ -60,7 +60,7 @@ var gProjects = [{
     title: 'Never Forget Your Tasks',
     desc: 'A Basic Keep-Style App',
     url: 'https://oren-karaso.github.io/Todos/',
-    publishedAt: '28/1/2021',
+    publishedAt: '27/01/2021',
     labels: ['Tools', 'Tasks'],
 },
 {
@@ -69,7 +69,7 @@ var gProjects = [{
     title: 'It\'s Just A Numbers Game',
     desc: 'Tap The Numbers By Order',
     url: 'https://oren-karaso.github.io/Touch-Nums/',
-    publishedAt: '28/1/2021',
+    publishedAt: '15/01/2021',
     labels: ['Tools', 'Tasks'],
 },
 {
@@ -78,7 +78,7 @@ var gProjects = [{
     title: 'Find And Mark Your Favorite Places',
     desc: 'A Map App',
     url: 'https://oren-karaso.github.io/favorite-places/',
-    publishedAt: '28/1/2021',
+    publishedAt: '03/02/2021',
     labels: ['Tools', 'Maps'],
 }
 ];

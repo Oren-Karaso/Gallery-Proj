@@ -71,6 +71,15 @@ var gProjects = [{
     url: 'https://oren-karaso.github.io/Touch-Nums/',
     publishedAt: '28/1/2021',
     labels: ['Tools', 'Tasks'],
+},
+{
+    id: 'favoritePlaces',
+    name: 'Favorite-Places',
+    title: 'Find And Mark Your Favorite Places',
+    desc: 'A Map App',
+    url: 'https://oren-karaso.github.io/favorite-places/',
+    publishedAt: '28/1/2021',
+    labels: ['Tools', 'Maps'],
 }
 ];
 

@@ -43,7 +43,7 @@ function renderProj() {
                   <li>Date: ${currProj.publishedAt}</li>
                   <li>${currProj.name}</li>
                   <li>Category: ${currProj.labels[1]}</li>
-                  <li><a href=${currProj.url} target="_blank">Play me!</a></li>
+                  <li><a href=${currProj.url} target="_blank">Check Me Out!</a></li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fa fa-times"></i>
